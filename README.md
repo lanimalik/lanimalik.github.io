@@ -81,3 +81,24 @@ Syntax highlighting
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
+
+Different Alignments 
+
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
+
+
+
+## Links 
+
+[link text](https://www.linkedin.com/in/jelanijohnson8/)
+
+[link with title](https://www.linkedin.com/in/jelanijohnson8/ "title text!")
+
+## Images
+
+![Cat](https://www.rawpixel.com/search/cartoon%20cat)
+
+## The End!
