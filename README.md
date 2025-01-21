@@ -40,4 +40,23 @@ Unordered
 + Sub-lists are made by indenting 2 spaces:
   - Marker Character forces new list start:
     * Ac tristique libero volutpat at
-    + 
+    + A random language
+    - and more lists here
++ Very easy!
+
+Ordered 
+
+1. This is first
+2. This is second
+3. This is third.
+
+## Code 
+
+Inline 'code'
+
+Indented code
+
+    // Some comments 
+    line 1 of code
+   
+   
