@@ -64,4 +64,18 @@ Indented code
 
 Black code "fences"
    
-   
+...
+sample text here...
+...
+
+Syntax highlighting
+
+''' js
+var foo = function (bar) {
+   return bar++;
+};
+
+console.log (foo(5));
+'''
+
+## Tables
